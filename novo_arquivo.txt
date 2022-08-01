@@ -1,0 +1,1 @@
+arquivo teste para treinar comandos de criar, adicionar e fazer commit em arquivos novos.
