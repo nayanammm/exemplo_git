@@ -1,0 +1,1 @@
+exercicio do desafio Git básico. proposto na apostila Git Essencial - Gravando Alterações no Repositório (https://git-scm.com/book/pt-br/v2/Fundamentos-de-Git-Gravando-Altera%C3%A7%C3%B5es-em-Seu-Reposit%C3%B3rio)
